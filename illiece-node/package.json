@@ -1,0 +1,19 @@
+{
+  "name": "user-generated-api",
+  "version": "1.0.0",
+  "description": "Fetching user generated api content (Twitter, Instagram ...)",
+  "main": "index.js",
+  "author": "hackdays-2023",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "graceful-fs": "^4.2.11",
+    "node-fetch": "^3.3.2",
+    "node-xlsx": "^0.23.0",
+    "nodemon": "^3.0.1",
+    "pino": "^8.15.0",
+    "puppeteer": "^21.1.1",
+    "read-excel-file": "^5.6.1",
+    "reddit": "^1.2.1"
+  }
+}
